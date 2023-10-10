@@ -66,7 +66,7 @@ jobs:
       - name: Check JSON issues
         id: check-issues
         run: |
-          failed_files="${{ needs.validate_json.outputs.failed_files }}"
+          failed_files="${{ needs.validate.outputs.failed_files }}"
           if [ -n "$failed_files" ]; then
             echo "JSON validation failed for the following files:"
             for file in $failed_files; do
