@@ -17,20 +17,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+
       - name: Install jq
         run: sudo apt-get install jq
 
-      - name: List changed JSON files
-        id: list-files
-        run: |
-          # Get the list of changed JSON files in the pull request
-          echo "FILES_CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '\.json$')" >> $GITHUB_ENV
-          echo "$FILES_CHANGED"
-        
       - name: Validate JSON
         run: |
           # Get the list of changed JSON files from the environment file
-          json_files=$(echo "$FILES_CHANGED")
+          json_files=$(echo "$steps.files.outputs.all" | grep '\.json$')
 
           # Loop through JSON files and validate each one
           for file in $json_files; do
