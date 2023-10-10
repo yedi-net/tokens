@@ -1,0 +1,95 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "title": "Yedi Network Data Provider",
+  "type": "object",
+  "required": [],
+  "properties": {
+    "description":{
+      "type":"string",
+      "description": "Toke description"
+    },
+    "links":{
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "name"],       
+        "anyOf": [
+          {
+            "required": ["type", "name", "url"],
+            "properties": {
+              "type": {
+                "const": "link",
+                "description": "Type of Link (link/token/nft)"
+              },
+              "name": {
+                "type": "string",
+                "description": "Name of Link"
+              },
+              "url": {
+                "type": "string",
+                "description": "URL of Link",
+                "pattern": "^https?://(?:www.)?[-a-zA-Z0-9@:%._+~#=]{1,256}.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_+.~#?&/=]*)$"
+              }
+            },
+            "additionalProperties": false
+          },
+          {
+            "required": ["type", "name", "chain", "address"],
+            "properties": {
+              "type": {
+                "const": "token",
+                "description": "Type of Link (link/token/nft)"
+              },
+              "name": {
+                "type": "string",
+                "description": "Name of Link"
+              },
+              "chain": {
+                "type": "string",
+                "description": "Chain of linked token",
+                "pattern": "^(bnb|eth)$"
+              },
+              "address": {
+                "type": "string",
+                "description": "Token address of linked token",
+                "pattern": "^0x[a-f0-9]{40}$"
+              }
+            },
+            "additionalProperties": false
+          },
+          {
+            "required": ["type", "name", "chain", "address"],
+            "properties": {
+              "type": {
+                "const": "nft",
+                "description": "Type of Link (link/token/nft)"
+              },
+              "name": {
+                "type": "string",
+                "description": "Name of Link"
+              },
+              "chain": {
+                "type": "string",
+                "description": "Chain of linked token",
+                "pattern": "^(bnb|eth)$"
+              },
+              "address": {
+                "type": "string",
+                "description": "Token address of linked token",
+                "pattern": "^0x[a-f0-9]{40}$"
+              }
+            },
+            "additionalProperties": false
+          }
+        ]
+      }
+    },
+    "badges": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
