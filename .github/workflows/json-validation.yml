@@ -27,9 +27,10 @@ jobs:
         run: |
           # Get the list of changed JSON files from the environment file
           json_files=$(echo "$steps.files.outputs.all" | grep '\.json$')
-
+          
           # Loop through JSON files and validate each one
           for file in $json_files; do
+            echo "Checking $file"
             if ! jq -e '
               # Check if the file contains valid JSON
               try (. | fromjson | . != null) catch false as $valid_json |
