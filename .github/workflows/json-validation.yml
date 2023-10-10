@@ -54,6 +54,18 @@ jobs:
             fi
           done
 
+          # Output the list of failed files
+          echo "::set-output name=failed_files::$failed_files"
+          
+ check_issues:
+    needs: validate
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check JSON issues
+        id: check-issues
+        run: |
+          failed_files="${{ needs.validate.outputs.failed_files }}"
           if [ -n "$failed_files" ]; then
             echo "JSON validation failed for the following files:"
             for file in $failed_files; do
