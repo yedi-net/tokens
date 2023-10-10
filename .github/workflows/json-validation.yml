@@ -52,7 +52,7 @@ jobs:
               
               # Check that there are no additional properties
               (keys - ["description", "socials"] | length == 0)
-            ' "$file"); then
+            ' "$file" >/dev/null 2>&1); then
               failed_files="$failed_files $file"
             fi
           done
