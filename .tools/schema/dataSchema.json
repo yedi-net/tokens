@@ -4,15 +4,15 @@
   "type": "object",
   "required": [],
   "properties": {
-    "description":{
-      "type":"string",
+    "description": {
+      "type": "string",
       "description": "Toke description"
     },
     "links": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["type", "name"],       
+        "required": ["type", "name"],
         "anyOf": [
           {
             "required": ["type", "name", "url"],
