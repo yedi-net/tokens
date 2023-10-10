@@ -35,5 +35,5 @@
      "icon": "icon.png"
    }
    ```
-4. Add a token icon file (make sure the filename is exactly as defined in the data.json - Only possible values are `icon.png`, `icon.svg`, `icon.jpg`, `icon.jpeg`.
+4. Add a token icon file into the same folder (make sure the filename is exactly as defined in the data.json - Only possible values are `icon.png`, `icon.svg`, `icon.jpg`, `icon.jpeg`).
 5. Submit your pull request for review. Only after a successful review, the token will be added. However, if we find the token does not follow our guidelines we will reject the listing.
