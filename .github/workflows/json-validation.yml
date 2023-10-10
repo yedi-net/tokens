@@ -58,7 +58,7 @@ jobs:
           # Output the list of failed files
           echo "::set-output name=failed_files::$failed_files"
           
- check_issues:
+  check_issues:
     needs: validate
     runs-on: ubuntu-latest
 
