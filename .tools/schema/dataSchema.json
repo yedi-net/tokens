@@ -8,7 +8,7 @@
       "type":"string",
       "description": "Toke description"
     },
-    "links":{
+    "links": {
       "type": "array",
       "items": {
         "type": "object",
@@ -19,7 +19,7 @@
             "properties": {
               "type": {
                 "const": "link",
-                "description": "Type of Link (link/token/nft)"
+                "description": "Link Type"
               },
               "name": {
                 "type": "string",
@@ -38,11 +38,11 @@
             "properties": {
               "type": {
                 "const": "token",
-                "description": "Type of Link (link/token/nft)"
+                "description": "Token Type"
               },
               "name": {
                 "type": "string",
-                "description": "Name of Link"
+                "description": "Name of Token"
               },
               "chain": {
                 "type": "string",
@@ -62,20 +62,20 @@
             "properties": {
               "type": {
                 "const": "nft",
-                "description": "Type of Link (link/token/nft)"
+                "description": "NFT Type"
               },
               "name": {
                 "type": "string",
-                "description": "Name of Link"
+                "description": "Name of NFT"
               },
               "chain": {
                 "type": "string",
-                "description": "Chain of linked token",
+                "description": "Chain of linked contract",
                 "pattern": "^(bnb|eth)$"
               },
               "address": {
                 "type": "string",
-                "description": "Token address of linked token",
+                "description": "Token address of linked contract",
                 "pattern": "^0x[a-f0-9]{40}$"
               }
             },
@@ -83,6 +83,10 @@
           }
         ]
       }
+    },
+    "icon": {
+      "type": "string",
+      "pattern": "^icon.(png|svg|jpg|jpeg)$"
     },
     "badges": {
       "type": "array",

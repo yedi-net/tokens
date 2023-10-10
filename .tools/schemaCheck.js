@@ -10,6 +10,7 @@ const resolve = (_path) => path.resolve(__dirname, _path)
 const chains = ["bnb", "eth"]
 const folders = chains.flatMap(chain => fs.readdirSync(resolve(`../${chain}`)).map(folder => `${chain}/${folder}`))
 
+// check folder name
 const invalidFolders = folders.filter(folder => !/^[^/]+\/0x[a-f0-9]{40}$/.test(folder))
 if (invalidFolders.length) {
   console.error(`Invalid folder structure for`, invalidFolders)
@@ -28,6 +29,13 @@ for (const file of files) {
     if (!valid) {
       console.error(ajv.errors)
       filesWithErrors.push(file)
+    }
+
+    if (fileDataJson.icon) {
+      if (!fs.existsSync(`${fileLocation.substring(0, fileLocation.length - 10)}/${fileDataJson.icon}`)) {
+        console.error(`Icon file ${fileDataJson.icon} not found`)
+        exit(-1)
+      }
     }
   }
 }
