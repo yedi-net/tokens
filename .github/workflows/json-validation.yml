@@ -27,7 +27,7 @@ jobs:
       - name: Validate JSON
         run: |
           # Get the list of changed JSON files from the environment file
-          json_files=$(echo "$FILES_CHANGED")
+          json_files=$(echo "$steps.files.outputs.all" | grep '\.json$')
 
           failed_files=""
 
