@@ -61,6 +61,13 @@ jobs:
           echo "::set-output name=failed_files::$failed_files"
 
           echo "Failed checks: $failed_files"
+
+      - name: Debug Output
+        run: |
+          echo "Changed files:"
+          cat $GITHUB_EVENT_PATH
+          echo "$steps.validate.outputs.failed_files"
+        if: always()
           
   check_issues:
     needs: validate
