@@ -66,7 +66,8 @@ jobs:
         run: |
           echo "Changed files:"
           cat $GITHUB_EVENT_PATH
-          echo "$steps.validate.outputs.failed_files"
+          failed_files="${{ needs.validate.outputs.failed_files }}"
+          echo "$failed_files"
         if: always()
           
   check_issues:
