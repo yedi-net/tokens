@@ -25,7 +25,6 @@ jobs:
         uses: jitterbit/get-changed-files@v1
 
       - name: Validate JSON
-        id: validate-json
         run: |
           # Get the list of changed JSON files from the environment file
           json_files=$(echo "$FILES_CHANGED")
