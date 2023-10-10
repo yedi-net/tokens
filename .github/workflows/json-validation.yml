@@ -20,10 +20,10 @@ jobs:
       - name: Install jq
         run: sudo apt-get install jq
         
-      - id: files
-        name: Validate JSON
+      - name: Validate JSON
+        id: files
         uses: jitterbit/get-changed-files@v1
-        run: |
+      - run: |
           # Get the list of changed JSON files from the environment file
           json_files=$(echo "$steps.files.outputs.all" | grep '\.json$')
           
