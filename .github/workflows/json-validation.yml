@@ -20,16 +20,20 @@ jobs:
       - name: Install jq
         run: sudo apt-get install jq
         
-      - name: Validate JSON
+      - name: Collect changed file name
         id: files
         uses: jitterbit/get-changed-files@v1
-      - run: |
+
+      - name: Validate JSON
+        id: validate-json
+        run: |
           # Get the list of changed JSON files from the environment file
-          json_files=$(echo "$steps.files.outputs.all" | grep '\.json$')
-          
+          json_files=$(echo "$FILES_CHANGED")
+
+          failed_files=""
+
           # Loop through JSON files and validate each one
           for file in $json_files; do
-            echo "Checking $file" >&1
             if ! jq -e '
               # Check if the file contains valid JSON
               try (. | fromjson | . != null) catch false as $valid_json |
@@ -47,9 +51,29 @@ jobs:
               # Check that there are no additional properties
               (keys - ["description", "socials"] | length == 0)
             ' "$file"; then
-              echo "JSON validation failed for $file." >&2
-              exit 1
-            else
-              echo "JSON validation passed for $file." >&1
+              failed_files="$failed_files $file"
             fi
           done
+
+          # Output the list of failed files
+          echo "::set-output name=failed_files::$failed_files"
+
+  check_issues:
+    needs: validate_json
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check JSON issues
+        id: check-issues
+        run: |
+          failed_files="${{ needs.validate_json.outputs.failed_files }}"
+          if [ -n "$failed_files" ]; then
+            echo "JSON validation failed for the following files:"
+            for file in $failed_files; do
+              echo "- $file"
+            done
+            # Exit with code 1 to indicate failure
+            exit 1
+          else
+            echo "JSON validation passed for all files."
+          fi
