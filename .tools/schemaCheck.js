@@ -9,6 +9,13 @@ const resolve = (_path) => path.resolve(__dirname, _path)
 
 const chains = ["bnb", "eth"]
 const folders = chains.flatMap(chain => fs.readdirSync(resolve(`../${chain}`)).map(folder => `${chain}/${folder}`))
+
+const invalidFolders = folders.filter(folder => !/^[^/]+\/0x[a-f0-9]{40}$/.test(folder))
+if (invalidFolders.length) {
+  console.error(`Invalid folder structure for`, invalidFolders)
+  exit(-1)
+}
+
 const files = folders.flatMap(folder => fs.readdirSync(resolve(`../${folder}`)).map(file => `${folder}/${file}`))
 
 const filesWithErrors = []
@@ -29,9 +36,9 @@ if (filesWithErrors.length > 0) {
   filesWithErrors.forEach(file => {
     console.error(`Invalid JSON Schema in ${file}`)
   })
-  exit(-1);
+  exit(-1)
 }
 else {
   console.info("Schema check completed successfully");
-  exit(0);
+  exit(0)
 }
