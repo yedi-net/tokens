@@ -35,11 +35,6 @@
       "name": "Instagram",
       "url": "https://instagram.com/thebabydogecoin",
       "type": "link"
-    },
-    {
-      "name": "BabyDoge ETH",
-      "url": "/babydoge:eth",
-      "type": "link"
     }
   ],
   "icon": "icon.png"

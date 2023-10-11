@@ -3,7 +3,7 @@
   "links": [
     {
       "name": "Twitter",
-      "url": "twitter.com/trogecoinOG",
+      "url": "https://twitter.com/trogecoinOG",
       "type": "link"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "Website",
-      "url": "troge.io",
+      "url": "https://troge.io",
       "type": "link"
     }
   ],
