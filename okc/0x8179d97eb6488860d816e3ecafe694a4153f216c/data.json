@@ -1,0 +1,21 @@
+{
+  "description": "CherrySwap is a decentralized exchange (DEX) that allows users to trade various cryptocurrencies in a trustless and decentralized manner. It is built on multiple blockchain networks, including Binance Smart Chain (BSC), Ethereum (ETH), Polygon (MATIC) and OKChain (OKC). This feature allows users to trade across different chains and take advantage of the unique features of each blockchain.CherrySwap offers users a secure and user-friendly platform to trade digital assets, and also allows them to provide liquidity to pools on different chains, and earn rewards in the form of the corresponding tokens. The platform is built with a focus on security and decentralization, eliminating the need for a central authority or intermediary. Additionally, it also supports OKChain (OKC) which is the native blockchain of OKEx, an exchange platform, allowing users to trade OKC and other digital assets on the OKChain network by using CherrySwap.",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/CherryswapNet",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.cherryswap.net/#/swap",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/cherryswap_1st",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

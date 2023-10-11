@@ -1,0 +1,16 @@
+{
+  "description": "AISHARE has a Initial Supply of 21500",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/skytombfinance",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/skytombfinance",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

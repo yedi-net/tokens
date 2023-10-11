@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/JygfB7J",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/tokenwaifu",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WaifuBSC",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://waifutoken.net",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

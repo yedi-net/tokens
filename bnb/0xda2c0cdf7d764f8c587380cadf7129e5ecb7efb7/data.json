@@ -1,0 +1,35 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://puppetscoin.com",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/PuppetsCoin",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/vr2q4DUcZN",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/puppetsarts/",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/PuppetsCoin",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/PuppetsArtsCoin",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

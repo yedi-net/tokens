@@ -1,0 +1,21 @@
+{
+  "description": "HOLD INT, EARN BTC.The biggest BTC reflection token with an incorporated auto-claim feature. Simply hold INT tokens in your wallet and you'll earn BTC.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://interestbsc.online/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/InterestToken",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/interestBSC",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

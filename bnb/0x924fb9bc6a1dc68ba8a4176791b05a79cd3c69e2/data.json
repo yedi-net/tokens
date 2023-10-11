@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://tinypupstoken.com",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/tinypupsofficial",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/tinypupstoken",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

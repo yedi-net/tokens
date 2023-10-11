@@ -1,0 +1,16 @@
+{
+  "description": "With SolidETH you get rewarded passively with ETH. 8% rewards, dev doxxed, lp locked for 1 year.",
+  "links": [
+    {
+      "name": "Telegram ",
+      "url": "https://t.me/solid_eth",
+      "type": "link"
+    },
+    {
+      "name": "Website ",
+      "url": "https://solideth.com",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

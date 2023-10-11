@@ -1,0 +1,25 @@
+{
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/USHI_ETH",
+      "type": "link"
+    },
+    {
+      "name": "Telegram Chat",
+      "url": "https://t.me/ushi_official_portal",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://ushi.pro",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://ushi.pro/docs/ushi_wp.pdf?v1",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

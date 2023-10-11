@@ -1,0 +1,31 @@
+{
+  "description": "Professional and Bullish Team at Pollux Protocol Pollux Protocol is a team of experienced web3 personnel with a passion for bringing positive impact to web3 and cross-chain connectivity. The team comprises multiple advisors and marketers to help them succeed. The CEO has worked with over 30 projects in the industry as the lead developer, making the team professional and bullish.Comprehensive Solutions for Crypto Investors The project offers various solutions, including the Pollux Atom Swap, a customizable DEX that enables reflections without writing them in your CA, and Pollux Interstellar, the first of its kind cross-chain bridge that uses the innovative ORDER BOOK method. Pollux Galaxy offers the cheapest cross-chain staking, farming, and auto-reflections creator protocol, providing a hassle-free experience for investors. Additionally, Pollux Reflections offers a dApp for claiming reflections in multiple currencies.HTML Tags for Better Navigation and Understanding Overall, Pollux Protocol offers a range of solutions for investors looking to engage with different cryptocurrencies, making it a comprehensive platform. The team's expertise and experience, along with their focus on cross-chain connectivity, make them a promising project to watch. The website uses HTML tags to emphasize important points, making it easy to navigate and understand.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.polluxprotocol.com",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/polluxprotocol",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/polluxprotocol",
+      "type": "link"
+    },
+    {
+      "name": "Docs",
+      "url": "https://docs.polluxprotocol.com",
+      "type": "link"
+    },
+    {
+      "name": "Swap",
+      "url": "https://atom.polluxprotocol.com",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

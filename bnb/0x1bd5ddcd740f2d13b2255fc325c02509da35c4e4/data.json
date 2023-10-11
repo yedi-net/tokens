@@ -1,0 +1,51 @@
+{
+  "description": "Baby Catcoin was created in partnership with the community of its parent token Catcoin. BabyCatCoin offers an experienced, safe and motivated team. With multi-sig safety and a doxxed and KYC developer holding one of the multisig wallets, BabyCatCoin looks to build a good community based on trust and transparency. With an NFT line currently being developed and numerous high level partnerships and marketing completed, BabyCatCoin will be anything but a baby in the BSC space. Currently offering BUSD rewards to all holders with no minimum buy and automatic distribution and an ever increasing price floor via LP acquisition and manual token burns, BabyCatCoin will deliver on all aspects in the BSC Space.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.babycatcoin.net/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://auditify.org/projects/babycatcoin",
+      "type": "link"
+    },
+    {
+      "name": "Catfi Ecosystem",
+      "url": "http://catfi.net/",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/BabyCatcoinBSC/",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/channels/943967957984366662/943967957984366666",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/groups/3111378342468762/?ref=share",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://www.babycatcoin.net/_files/ugd/4806a2_0c8bf2aae39c4f7bba75f012e853d8d3.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/BabyCatcoinBSC",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/babycatcoinchat",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

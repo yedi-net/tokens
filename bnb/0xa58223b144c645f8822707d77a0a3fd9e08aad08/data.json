@@ -1,0 +1,56 @@
+{
+  "description": "Hobi is the Auto Staking Reward Token from SokuSwap 💜Hobi has a 10% transaction fee on buys/sells/transfers. 1️⃣ 4% goes to buy-back of 💙 SOKU auto deposited to Hobi Holders 2️⃣ 6% goes to liquidity generation for Hobi Hobi is part of a larger project called SokuSwap. SokuSwap is a 9 network Cross-Chain Decentralized Exchange with Yield Farms, Staking, Limit Orders, BSC 🔁 Ethereum Bridge, NFT Marketplace, and Educational Platform. Currently we offer 2 networks of operation, Binance Smart Chain and Ethereum. Our in house bridge facilitates our single supply to move freely between BSC and Ethereum networks. Soku, Hobi, and Suteku combine forces to create one of the most exciting ecosystems in DeFi! Fair launched on SokuSwap May 24th 2022, Hobi is quickly gaining recognition as one of the most innovative token designs in crypto! SokuSwap is Fully Doxxed and Audited 💳 Don't miss the SOKU DEBIT CARD 💜 Hold Hobi 💙 Earn Soku 💳 Spend Soku from your card anywhere Visa, Apple Pay, or Google Pay is accepted",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.sokuswap.org/",
+      "type": "link"
+    },
+    {
+      "name": "Yield Farming",
+      "url": "https://app.sokuswap.finance/bsc/farms/",
+      "type": "link"
+    },
+    {
+      "name": "Staking",
+      "url": "https://app.sokuswap.finance/bsc/staking/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/SokuSwap",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/sokuswap/",
+      "type": "link"
+    },
+    {
+      "name": "NFTs | Undead Samurai",
+      "url": "https://nftsoku.com/",
+      "type": "link"
+    },
+    {
+      "name": "Education",
+      "url": "https://www.defidecomplicated.com/",
+      "type": "link"
+    },
+    {
+      "name": "SokuSwap",
+      "url": "https://app.sokuswap.finance/bsc/#/swap",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/SokuSwap",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/SokuSwapOfficial/",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

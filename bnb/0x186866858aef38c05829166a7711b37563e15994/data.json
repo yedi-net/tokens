@@ -1,0 +1,15 @@
+{
+  "links": [
+    {
+      "name": "Hodl Finance Swap",
+      "url": "https://swap.hodl.finance",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://hodl.finance",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

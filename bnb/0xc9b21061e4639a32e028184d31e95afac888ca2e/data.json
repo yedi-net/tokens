@@ -1,0 +1,31 @@
+{
+  "description": "LoneCoin is a meme token coin based on the Lone Ranger and the Lone Wolf. It incorporates traits of honesty, the integrity of the ranger, and the desire to be one, lone, and unique of both.Lone Coin is laying a foundation for a new crypto philosophy, „There Can Be Only One“, and pioneering in its implementation and adoption. This means that in the future there will exist one Lone Coin. In the contract, the burn process is set to stop once the current circulation supply reaches 1.00001, the amount of 0.00001 coins will be burned manually, and as mentioned earlier, only one Lone Coin will exist.",
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/+VXQ1SGwPpp42ZjA0",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/the_lone_coin",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/e9jraXeAPy",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/user/LoneMinter/",
+      "type": "link"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@loneminter",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

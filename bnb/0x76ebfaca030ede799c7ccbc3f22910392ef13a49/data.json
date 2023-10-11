@@ -1,0 +1,51 @@
+{
+  "description": "Tokenomics: 10% buy/sell tax. 5% of the tax goes to liquidity. 5% of each transaction is distributed to holders including the dead address. . No presale conducted, allowing for a fair launch. The initial liquidity and 5% of Clowncoin’s total supply were sent to the dead address at the project’s beginning. . The Clowncoin team consists entirely of volunteers who are also invested in CLOWNS.",
+  "links": [
+    {
+      "name": "Whitepaper",
+      "url": "https://img1.wsimg.com/blobby/go/9fe83c75-5b87-4af5-98b4-cf195142fd1d/Clownpaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/clowncoinBSC",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/ClowncoinBSC/",
+      "type": "link"
+    },
+    {
+      "name": "Cloudcoinburn",
+      "url": "https://www.clowncoinburn.com/",
+      "type": "link"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCgoG_bUe2cmTvbldTxRqqOg",
+      "type": "link"
+    },
+    {
+      "name": "Poocoin",
+      "url": "https://poocoin.app/tokens/0x76ebfaca030ede799c7ccbc3f22910392ef13a49",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://clowncoinbsc.com/",
+      "type": "link"
+    },
+    {
+      "name": "Roadmap",
+      "url": "https://img1.wsimg.com/blobby/go/1a82be19-3b6b-4ae9-b434-088c21adf3c3/content_3A_2F_2Forg.telegram.messenger.provide.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/clowncoinBSC",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

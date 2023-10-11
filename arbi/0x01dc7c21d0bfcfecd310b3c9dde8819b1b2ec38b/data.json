@@ -1,0 +1,26 @@
+{
+  "description": "Gambler Shiba is a community-run utility meme token on the Arbitrum network that features a lottery function. The lottery rewards are tiered, based on Arbitrum spent, giving all users an equal chance at achieving the highest tier. The token also incorporates NFTs, with partnerships to provide real metaverse utility and staking options for holders to earn passive tokens. A 12% buy/sell tax, 4% for the lottery, 1% for buyback and burn, and 7% for marketing and development are also implemented.",
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/GshibaArbitrum",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Gshiba_World",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.gamblershiba.io",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/gamblershiba_arbitrum",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

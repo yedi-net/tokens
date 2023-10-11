@@ -1,0 +1,41 @@
+{
+  "description": "Kemonomimi is a heavily community-focused project with a vision for a complete token, NFT, and P2E gaming utility on BSC. MIMI is a deflationary Token with automatic yield generation and will be used to mint NFTs. The Kemonomimi NFT Booster Pack utilizes Chainlink's VRF technology to generate a truly Random and unique NFT collectable. This is fully verifiable on the blockchain. There is no pre-minting or pre-determined outcomes. Even if The Team wants to participate the odds are the same. We believe this makes the gacha truly exciting and fair for all! Kemonomimi ($MIMI) was launched to bring a fun, interesting and immersive anime collectable ecosystem to the NFT and Cryptocurrency space. Kemonomimi is an anime and manga term that describes humanoid characters that possess animal like features, mainly a pair of ears and a tail. The appearance of the ears and the tail is based on the family of each Kemonomimi.",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Kemonomimi_nft",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/kemonomimi_official",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/h2K8qZrR4V",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://kemonomimi.me",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/kemonomimiNFT",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://admin-81.gitbook.io/kemonomimi-white-paper/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://solidity.finance/audits/Kemonomimi/",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

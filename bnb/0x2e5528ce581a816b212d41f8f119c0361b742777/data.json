@@ -1,0 +1,21 @@
+{
+  "description": "Doge + Trollface = TROGE. The classic meme, now in Doge format on BSC. 3% DOGE rewards paid automatically to holders.",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/trogecoinOG",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/troge_OG",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://troge.io",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

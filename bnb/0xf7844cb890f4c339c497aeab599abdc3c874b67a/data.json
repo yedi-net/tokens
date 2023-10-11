@@ -1,0 +1,16 @@
+{
+  "description": "The PlatformWelcome to a decentralized network that connects content creators, musicians, artists, and investors. The platform offers an easy-to-use marketplace for visual art, audio, and apps with low transaction fees. Content creators can upload and sell their visual artworks as NFTs, while musicians and audioheads can use enter.audio, our audio NFT marketplace. Our upcoming smartphone apps will enable anyone to create and trade NFTs from their phone, making NFTs simpler than ever.The TokenThe NFTART token is the backbone of our platform. It is hyper deflationary and frictionless by design, with no owner, and ownership of the contract renounced on day one. Our smart contract has passed a full code audit by TechRate. The token is the governance token and default currency used to buy and sell NFTs on enter. With our built-in 5% redistribution on every transaction, the NFTART token generates passive income, making it an excellent investment.The Simplest Way to Buy NFTARTBuying NFTART is as easy as connecting your wallet and typing in the amount you would like to swap. The token is audited, safe, and runs on Binance Smart Chain, which ensures low transaction fees. The NFTART token has a built-in 10% transaction tax, where 5% gets burnt, and 5% goes back to holders, making it deflationary. The token is a utility that can be used for governance and to buy and sell NFTs on enter. Join us today and be part of a decentralized network that connects content creators, musicians, artists, and investors.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.nft-art.finance",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/enternft",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

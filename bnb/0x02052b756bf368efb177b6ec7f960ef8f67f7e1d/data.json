@@ -1,0 +1,51 @@
+{
+  "description": "Hunger Token - Multi ways of Earning Money by Fighting Hunger",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/TheHungerToken",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/thehungertoken/",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.thehungertoken.com/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://thehungertoken.com/dosya/audit3.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Telegram Global",
+      "url": "https://t.me/TheHungerToken",
+      "type": "link"
+    },
+    {
+      "name": "Dextools",
+      "url": "https://www.dextools.io/app/bsc/pair-explorer/0x6809e74a2c3e0a0dfcb90a86c1f1ca1793445d41",
+      "type": "link"
+    },
+    {
+      "name": "Buy on PancakeSwap",
+      "url": "https://pancakeswap.finance/swap?outputCurrency=0x02052b756bf368efb177b6ec7f960ef8f67f7e1d",
+      "type": "link"
+    },
+    {
+      "name": "Poocoin",
+      "url": "https://poocoin.app/tokens/0x02052b756bf368efb177b6ec7f960ef8f67f7e1d",
+      "type": "link"
+    },
+    {
+      "name": "WhitePaper",
+      "url": "https://thehungertoken.com/dosya/WhitePaper2.pdf",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

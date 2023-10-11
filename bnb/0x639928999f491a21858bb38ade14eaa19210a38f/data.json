@@ -1,0 +1,31 @@
+{
+  "description": "OnlyCam is a decentralized NSFW ecosystem that offers a simple and effective way to empower adult content creators and reward viewers in one fell swoop. It helps adult content creators to earn much more and content consumers to pay much less via disintermediation. The inclusive community embraces the principles of diversity, fairness, and freedom.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://only.cam/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/onlycamofficial",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/OnlyCamViP",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://only.cam/papers/whitepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/yZ7sCdShRS",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

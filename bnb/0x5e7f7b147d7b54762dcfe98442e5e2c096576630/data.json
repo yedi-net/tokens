@@ -1,0 +1,31 @@
+{
+  "description": "Inspired by the chameleon's ability to change colour, MemeLeon sends owners different meme coins depending on the trends of the meme world. The project is designed to provide a fun and engaging way for cryptocurrency enthusiasts to participate in the rapidly growing world of meme coins. By holding Memeleon tokens, users gain access to a constantly changing selection of meme coins, each with its own unique characteristics and value proposition.",
+  "links": [
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/MemeLeon/",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://memeswap.online",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/MemeLeonPortal",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/thememeleon",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=100094053186181",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

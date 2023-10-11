@@ -1,0 +1,21 @@
+{
+  "description": "Formula is a reward token based on the BSC blockchain and rewards will be paid in ETH BEP20. Formula is a unique rewards token with a low buy and sell tax of 13%. Holders of Formula can track their ETH rewards on the company's custom-built D'App. By adding the ETH asset to their Metamask wallet, rewards will be automatically paid. Ethereum (ETH) is the second largest crypto currency asset with a high level of capabilities. It is entirely programmable, allowing for the development and deployment of decentralized applications on its network. In addition, ETH is on the brink of completing the unification of its Proof of Consensus layer with its existing execution layer, which will transform the asset and drive a significant reduction in energy consumption. By rewarding holders in ETH, Formula aims to provide long-term passive income from a leading crypto asset.",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/FormulaBSC",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/FormulaBSC",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://formulabsc.online",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

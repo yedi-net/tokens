@@ -1,0 +1,35 @@
+{
+  "description": "Dynamix, The first token created with an evolving algorithm based on events. Increases Rewards system, Decreases Sell fees, Scalable buyback and burn system. The number of reflections will change depending on the total amount of holders. (2-8 %) The sell tax depends on how long you hold the token (5-17 %)",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/dynamixtoken/token",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Dynamixarmy",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/Dynamixarmy/",
+      "type": "link"
+    },
+    {
+      "name": "BscScan",
+      "url": "https://bscscan.com/token/0xc41689A727469C1573009757200371edf36D540e",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/DynamixToken",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://dynamix.finance/",
+      "type": "link"
+    }
+  ]
+}

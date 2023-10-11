@@ -1,0 +1,21 @@
+{
+  "description": "the most memeable memecoin in existence. The dogs have had their day, it’s time for Pepe to take reign.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.pepe.vip",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/pepecoineth",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/pepecoineth",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

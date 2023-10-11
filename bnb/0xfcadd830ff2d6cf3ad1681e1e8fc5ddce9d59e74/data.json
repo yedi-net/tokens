@@ -1,0 +1,56 @@
+{
+  "description": "ZADA is a cryptocurrency that upon holding, offers you free Cardano. In addition, holders will have an opportunity to receive even more rewards in other coins through the \"Last Man Standing Wallet\" and the \"Series 2 \"airdrop giving our investors several ways to earn and build off holding one coin - a first in crypto! The Hybrid Portfolio Builder is the ecosystem that ZADA operates in. HPB ensures that every ZADA holder receives an enhanced 10% Cardano reflection every hour!",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://zadauniverse.com",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/zadabsc",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/zadabsc",
+      "type": "link"
+    },
+    {
+      "name": "Medium",
+      "url": "https://zadabsc.medium.com/",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/zadabsc/",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/zadabsc/",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/zadabsc",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://zadauniverse.com/assets/downloads/zada-whitepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@zadabsc",
+      "type": "link"
+    },
+    {
+      "name": "Buy ZADA",
+      "url": "https://pancakeswap.finance/swap?outputCurrency=0xfcadd830ff2d6cf3ad1681e1e8fc5ddce9d59e74",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}
