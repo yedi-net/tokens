@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/0xRyoshiverse",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/ryoshiverseofficial",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://ryoshiverse.io",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

@@ -1,0 +1,31 @@
+{
+  "description": "WE ARE #RAIDERS EXPECT US!",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://raidertoken.net/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/AnyRaidersOfficial",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/RaiderToken",
+      "type": "link"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCnLFr-Eu6JmORpeG5FTrfuQ",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://github.com/MoonScan/uploaded/blob/main/CoinTool_Audit_Report_0x68F483B06F1E96B10239e333b598f145Da8571c2.pdf",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

@@ -1,0 +1,40 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "http://www.megashibazilla.com",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/megashibazillaofficial",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://dessertswap.finance/audits/MegaShibaZilla%20BSC%20Audit%2012689058.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/megashibazilla?s=21",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/MegaShibaZillaBSC/",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/G4usEVeU",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://megashibazilla.com/assets/docs/MegaShibaZilla_Whitepaper.pdf",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

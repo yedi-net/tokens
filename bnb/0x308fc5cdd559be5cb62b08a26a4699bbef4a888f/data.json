@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/DCIPfinance",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://dcip.finance",
+      "type": "link"
+    },
+    {
+      "name": "dApp",
+      "url": "https://app.dcip.finance",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

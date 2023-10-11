@@ -1,0 +1,36 @@
+{
+  "description": "CatBonk is a Community-run memecoin centered around a meme featuring felines wielding baseball bats and bonking other memecoins. It knows what it is and it will never pretend to be something that it is not. At the helm of parody and innovative financial technologies, CatBonk is perfectly positioned to build an unstoppable community and use its resources to do good in the world. CatBonk’s fundamental goals are to bring joy and happiness to those who create and share memes related to its token, and more importantly, to push the boundaries of the traditional capabilities of memecoins in hopes to make a positive impact on the world at large. Since we adore cats, we are committed to generating donations for charitable foundations that exist to preserve endangered wild cats, to renovating and building cat shelters in underserved areas that lack necessary resources to care for homeless cats, and to the improve wareness for endangered and homeless cats. Community is the heart of this project. Without each other, there is no CatBonk. Through creativity, kindness, and altruism, we believe nothing can stop CatBonk from making the world a better place for cats, other animals, and for all of humanity.",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/QADqvpAjyk",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/Cat_Bonk/",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://mobile.twitter.com/CatBonk1",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://catbonk.com/",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://catbonk.com/whitepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/catbonk_official",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

@@ -1,0 +1,51 @@
+{
+  "description": "SafeMoon is a human-focused technology and innovation business that expands on blockchain technologies for a better future. The company is closely connected to its award-winning community, known as the SafeMoon Army, and is dedicated to building blockchain, commerce, metaverse, and NFT products to create new value from crypto technology and apply it to practical use. SafeMoon is now working on the second part of its mission, which is to expand and channel its technology to drive new innovations for the greater good, using a Venture Philanthropy model to advance those innovations to all parts of the world. The SafeMoon Protocol V2 is a community-focused DeFi token that is part of the growing SafeMoon ecosystem. Each trade results in four simple functions, including redistribution to existing holders, adding to liquidity, token burning, and adding to the SafeMoon Ecosystem Growth Fund. The SafeMoon exchange will bring the concept of Cryptonomics to the entire crypto industry.",
+  "links": [
+    {
+      "name": "SafeMoon Swap",
+      "url": "https://swap.safemoon.net",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/safemoon",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://safemoon.com",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/safemoon",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/safemoonofficial",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/safemoonhq/",
+      "type": "link"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/safemoon/",
+      "type": "link"
+    },
+    {
+      "name": "YouTube",
+      "url": "http://youtube.com/safemoonhq",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/SafeMoon/",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

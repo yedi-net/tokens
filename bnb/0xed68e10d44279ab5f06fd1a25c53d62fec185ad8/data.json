@@ -1,0 +1,40 @@
+{
+  "links": [
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@1CYM",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://cymtoken.io/",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/cymtoken",
+      "type": "link"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCQDLL2fCQheig5KLvEjtpEw",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/cym_token",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/cymtoken/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/cymev2",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

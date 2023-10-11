@@ -1,0 +1,51 @@
+{
+  "description": "xUSD is an appreciating stable coin that is liquidity backed over 100 percent by BUSD. It's internal market maker ensures that every transaction (buys, sells &amp; transfers) raise the value of xUSD relative to BUSD. The pricing algorithm shifts the supply ratio between the underlying asset and the total supply of xUSD, thereby allowing for every transaction to raise the value of the token. Price is calculated as a ratio between Total Supply and underlying asset quantity in Contract. By design, xUSD's total supply is a variable that can never be less than 1 and is determined by buy versus sell pressure. There is no maximum total supply. xUSD provides utility as an intermediary asset to hedge against risk and trade in preference between assets in the XSurge Ecosystem. As a standalone asset, it works the same way as other variants of this ecosystem with substantially low fees for trading. 0.75% buy fee 0.25% sell fee 0.25% transfer fee In addition, the Token incorporates a Staking contract for yield farming. Staking liquidity yields xUSD rewards for stakers from allocated tax through transaction volume. Due to its function as a arbitrage trader token, staking is highly incentivized to gain Passive xUSD Dividends as you hold for long term profit. The more xUSD staked in different trading pools, the more Arbitrage (TX Volume) it will gain. xUSD is available for trading on PancakeSwap as an xUSD/BNB Pairing or by buying through the SwapPair liquidity contract on which it resides as an xUSD/BUSD pairing. More information on SwapPair liquidity contracts can be found on the XSurge Webpage.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://xsurgecrypto.net",
+      "type": "link"
+    },
+    {
+      "name": "White paper ",
+      "url": "https://xsurgecrypto.net/assets/xsurge-whitepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/XSURGEDEFI",
+      "type": "link"
+    },
+    {
+      "name": "Liquidity Added",
+      "url": "https://bscscan.com/tx/0x3166f2d22689e97d91e051a1d0d45eb70ec964b2f9e464fc8b10fec157eeb54c",
+      "type": "link"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/xusd-token",
+      "type": "link"
+    },
+    {
+      "name": "CoinMarket Cap",
+      "url": "https://coinmarketcap.com/currencies/xusd-token/",
+      "type": "link"
+    },
+    {
+      "name": "Poocoin Chart ",
+      "url": "https://poocoin.app/tokens/0x254246331cacbc0b2ea12bef6632e4c6075f60e2",
+      "type": "link"
+    },
+    {
+      "name": "Pancake swap ",
+      "url": "https://pancakeswap.finance/swap?outputCurrency=0x254246331cacbc0b2ea12bef6632e4c6075f60e2",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/xsurge",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

@@ -1,0 +1,40 @@
+{
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/catcoin_bsc",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/catcoinbsc",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "http://reddit.com/r/catcoinarmy",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "http://instagram.com/catcoin2022",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://catcoincrypto.net",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://drive.google.com/file/d/1pJXBR7gy0yv_ABRQ8TrDqG-L46hjNP_M/view?usp=sharing",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://drive.google.com/file/d/1sHWxUmJAsr1kwesE_4kLZMQW0wCgvvw4/view?usp=sharing",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

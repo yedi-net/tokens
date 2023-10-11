@@ -1,0 +1,51 @@
+{
+  "description": "AVOTEO is a comprehensive platform that offers a range of services to its users. The platform was established on October 31, 2021 with the goal of empowering projects through funding and connecting the fields of crowdfunding, crypto, social media, and finance.Through the platform's crowdfunding feature, users have the opportunity to invest in campaigns and receive passive income. Rather than requiring investors to contribute their own funds, AVOTEO uses a tax on AVO token transactions to create a funding pool, which is then used to support various startups that are selected by AVO holders through voting. Each transaction of AVO is subject to a 10% tax, with 4% going to the funding pool and 3% being redistributed to token holders. Depending on the number of AVO tokens they own, holders will receive a share of the profits from the funded projects.In addition to its crowdfunding feature, AVOTEO also serves as a skill marketplace, providing users with access to a global pool of freelancers for hire. The platform is built on the secure foundation of blockchain technology and utilizes the AVO token for various purposes, including funding businesses and facilitating discounted payments. To fully utilize the platform's offerings, users must hold a minimum of 200 AVO.",
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/avoteoglobal",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://avoteo.io/",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/avoteo.io",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Avoteo_com",
+      "type": "link"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UC8Qh9EjU7ee3gpPJa-II5Dg",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/avoteo/",
+      "type": "link"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@avoteo.io",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/Avoteo/",
+      "type": "link"
+    },
+    {
+      "name": "bitcointalk",
+      "url": "https://bitcointalk.org/index.php?topic=5364046",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

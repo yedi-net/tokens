@@ -1,0 +1,35 @@
+{
+  "links": [
+    {
+      "name": "CatGirl Swap",
+      "url": "https://www.hub.catgirlcoin.com/",
+      "type": "link"
+    },
+    {
+      "name": "CatGirl DApp",
+      "url": "https://www.catgirl.io/#",
+      "type": "link"
+    },
+    {
+      "name": "Official Telegram",
+      "url": "https://t.me/catgirlcoin",
+      "type": "link"
+    },
+    {
+      "name": "Reddit Community",
+      "url": "https://www.reddit.com/r/catgirlcoin/",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://catgirl.io",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/catgirlcoin",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

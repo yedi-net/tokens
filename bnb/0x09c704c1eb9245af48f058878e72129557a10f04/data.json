@@ -1,0 +1,71 @@
+{
+  "description": "Sweep Token is a community-driven meme utility token that offers project owners and users prize draw opportunities, reflections, and non-custodial staking. Launched in September 2022, the token provides utility through its innovative features. 5% of each transaction is redistributed to holders based on wallet holdings, including the Dead Wallet Address. Sweep Token also features NFTs and aspires to be a project for all BSC NFTs, providing innovative rewards via non-custodial staking, ensuring investor assets never leave their wallets.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.sweepproject.com",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/sweeptoken",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/sweepproject",
+      "type": "link"
+    },
+    {
+      "name": "PancakeSwap",
+      "url": "https://pancakeswap.finance/swap?outputCurrency=0x09c704c1EB9245Af48f058878e72129557a10F04",
+      "type": "link"
+    },
+    {
+      "name": "BabyDogeSwap",
+      "url": "https://babydogeswap.com/swap?outputCurrency=0x09c704c1EB9245Af48f058878e72129557a10F04",
+      "type": "link"
+    },
+    {
+      "name": "indoex",
+      "url": "https://international.indoex.io/trade/SWEEP_BNB",
+      "type": "link"
+    },
+    {
+      "name": "Coinstore",
+      "url": "https://www.coinstore.com/#/spot/sweepusdt",
+      "type": "link"
+    },
+    {
+      "name": "Azbit",
+      "url": "https://azbit.com/exchange/",
+      "type": "link"
+    },
+    {
+      "name": "LATOKEN",
+      "url": "https://latoken.com/exchange/SWEEP_nUSDT",
+      "type": "link"
+    },
+    {
+      "name": "coinsbit",
+      "url": "https://coinsbit.io/trade",
+      "type": "link"
+    },
+    {
+      "name": "Coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/sweeptoken/",
+      "type": "link"
+    },
+    {
+      "name": "Coingecko",
+      "url": "https://www.coingecko.com/en/coins/sweep-token",
+      "type": "link"
+    },
+    {
+      "name": "Poocoin",
+      "url": "https://poocoin.app/tokens/0x09c704c1eb9245af48f058878e72129557a10f04",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

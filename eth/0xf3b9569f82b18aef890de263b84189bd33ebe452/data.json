@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://caw.is",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/communitycaw",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/cawbuilders",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

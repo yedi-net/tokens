@@ -1,0 +1,51 @@
+{
+  "description": "IntroductionFEG Token is a governance token designed to provide holders with passive income by staking their tokens. On February 22nd, 2023, FEG Token and ROX Token will be merged into a new token launched off of the SmartDeFi Technology, offering a fair transaction tax on all projects that launch from their SmartDeFi token launchpad.Staking Rewards ExplainedOnce migrated, 2% of total volume will go directly to staking rewards, and FTW (Peer-2-Peer) transaction and subscription fees will feed marketing, growth, and staking. FEG Token operates on the Ethereum blockchain (ERC-20) and Binance Smart Chain (BEP-20), and will continue to do so after migration.The Future of the FEG Token EcosystemFEG Token plans to expand its trading capabilities to multiple EVM-based blockchains, and release its SmartDeFi Launchpad Technology where anyone can create a cryptocurrency and take it to market within minutes. SD Tokens will be tradeable on any CEX or DEX, and the contract will go through extensive testing and third-party audit to ensure security against flash loans. Functions include staking, asset-backing, smart lending, and liquidity locking.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://fegtoken.com/",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/FEGtoken",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/kQXZD4X5cH",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/fegchat",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/FegToken_Official",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/FEGTokenOfficial/",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/feg_token/",
+      "type": "link"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/fegtokenofficial",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://solidity.finance/audits/FEG/",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

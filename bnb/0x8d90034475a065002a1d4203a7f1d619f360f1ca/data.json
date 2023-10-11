@@ -1,0 +1,26 @@
+{
+  "description": "A COMMUNITY BASED MEME TOKEN BASED ON THE ONE PIECE CHARACTER KATAKURI",
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/katakurixcalsi",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://katakuriinu.com",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://katakuriinu.com/wp-content/uploads/2022/05/Katakuri-Inu-Official-Whitepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/KatakuriInu",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

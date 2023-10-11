@@ -1,0 +1,21 @@
+{
+  "description": "Baby Sweep is a newly launched token with a focus on reflections and project growth. The tokenomics involve fees taken from each buy and sell, with 3% reflected back to holders based on wallet holdings, including the dead wallet, and 3% allocated to the growth and development of the Sweep Project. Baby Sweep has a total supply of 100 quintillion tokens, with liquidity locked for 10 years. The token has been audited by Solidity Finance. More information about Baby Sweep can be found in the project's website.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.sweepproject.com",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/sweepproject",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/sweeptoken",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

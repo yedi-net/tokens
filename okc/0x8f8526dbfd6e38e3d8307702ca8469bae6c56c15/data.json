@@ -1,0 +1,21 @@
+{
+  "description": "OKChain (OKC) is the native blockchain of OKEx, a cryptocurrency exchange platform. OKC is a high-performance and decentralized blockchain network designed for the next generation of DeFi applications and digital assets. It is built to support various use cases such as decentralized exchanges, lending, and borrowing, gaming and more.OKT is the native token of the OKChain network, and it can be used for various activities on the platform such as paying transaction fees, participating in governance, and accessing exclusive features and services. OKT holders can also participate in the governance of the network by proposing and voting on protocol upgrades and other network changes. The token also has utility in the OKEx ecosystem, users can use it to get discounts on trading fees, access to exclusive events and promotions, and other benefits.",
+  "links": [
+    {
+      "name": "Exchange",
+      "url": "https://www.okx.com/join/39326628",
+      "type": "link"
+    },
+    {
+      "name": "Blockchain",
+      "url": "https://www.okx.com/okc",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.okx.com",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

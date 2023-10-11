@@ -1,0 +1,31 @@
+{
+  "description": "HOLD CMPD, EARN BUSD.The biggest BUSD reflection token with an incorporated auto-claim feature. Simply hold CMPD tokens in your wallet and you'll earn BUSD.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://compounded.finance",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/CompoundedToken",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/Compounded/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/compounded",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://m.facebook.com/compoundedtoken/",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

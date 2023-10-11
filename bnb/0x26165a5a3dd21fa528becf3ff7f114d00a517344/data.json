@@ -1,0 +1,49 @@
+{
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/meta_token_bsc",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://metabsc.app/img/new/whitepaper/META_Whitepaper_-_November_27_2021.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Audit: Certik",
+      "url": "https://www.certik.com/projects/meta-bsc",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://metabsc.app",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/meta_shiba",
+      "type": "link"
+    },
+    {
+      "name": "Coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/meta-bsc",
+      "type": "link"
+    },
+    {
+      "name": "Audit: TechRate",
+      "url": "https://github.com/TechRate/Smart-Contract-Audits/blob/main/November/META.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Rewards Dashboard",
+      "url": "https://rewards.metabsc.app",
+      "type": "link"
+    },
+    {
+      "name": "Coingecko",
+      "url": "https://www.coingecko.com/en/coins/meta-bsc",
+      "type": "link"
+    }
+  ]
+}

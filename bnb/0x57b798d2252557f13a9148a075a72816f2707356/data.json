@@ -1,0 +1,21 @@
+{
+  "description": "RatsCoin was launched on March 15, 2022 by Riaomi Nakamoto (Satoshi Nakamoto's Rat) as a community-influenced project with big goals but little funding. Renounced by Riaomi shortly after launch, RatsCoin is now completely owned and run by its amazing community.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.ratscoin.com/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/ratscoinx1000",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/ratscoinx1000",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

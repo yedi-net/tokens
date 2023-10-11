@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://floki.com",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/RealFlokiInu",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/FlokiInuToken",
+      "type": "link"
+    }
+  ]
+}

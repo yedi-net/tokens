@@ -1,0 +1,41 @@
+{
+  "description": "For investors, by investors, a community based cryptocurrency with a revolutionary protocol. We aim to provide a currency that is also rewarding for holders, but not taking any tokens on direct transfers, only on buys and sells, while helping to educate our community about crypto safety and diversification and developing utilities that are not only financially rewarding, but fun!",
+  "links": [
+    {
+      "name": "Madhouse Community Discord",
+      "url": "https://discord.gg/aHHFbP8AwX",
+      "type": "link"
+    },
+    {
+      "name": "100% Secure Audit by Hacken",
+      "url": "https://hacken.io/audits/#madhouse",
+      "type": "link"
+    },
+    {
+      "name": "Madhouse Token Smart Contract Source Code",
+      "url": "https://bscscan.com/address/0x8c4885867d30f03ad04388cee01c65d11d192e61#code",
+      "type": "link"
+    },
+    {
+      "name": "@MadHouseToken Telegram",
+      "url": "https://t.me/MadHouseToken",
+      "type": "link"
+    },
+    {
+      "name": "@MadHouseToken Twitter",
+      "url": "https://twitter.com/MadHouseToken",
+      "type": "link"
+    },
+    {
+      "name": "MadHouse Token Website",
+      "url": "https://www.madhousetoken.com/",
+      "type": "link"
+    },
+    {
+      "name": "MadHouse Facebook",
+      "url": "https://www.facebook.com/MadhouseToken",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

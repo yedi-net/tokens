@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.minifootballtoken.com",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/minifootballbsc",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/minifootballtoken",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/minifootballbsc",
+      "type": "link"
+    }
+  ]
+}

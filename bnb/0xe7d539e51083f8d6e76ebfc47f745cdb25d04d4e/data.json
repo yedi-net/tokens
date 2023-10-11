@@ -1,0 +1,36 @@
+{
+  "description": "Dog Coin is a Community-Managed, 100% safe crypto project deployed on Binance Smart Chain (BSC). Our contract is fully renounced, we have low tax on buys and sells, and we are community-owned and managed. We have a few admins to keep things running smoothly, but every decision is made as a community.",
+  "links": [
+    {
+      "name": "Whitepaper",
+      "url": "https://dogcoinbsc.com/wp-content/uploads/2022/03/Dog_Coin_WOOF_White_Paper_v1.2.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/dogcointoken",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/DogCoinBSC/",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://dogcoinbsc.com/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://github.com/MoonScan/uploaded/blob/main/dogcoin.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/DogcoinbscOfficial",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

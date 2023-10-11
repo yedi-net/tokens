@@ -1,0 +1,21 @@
+{
+  "description": "First Cross-Chain Aggregator DEX with 8 BlockchainsSokuSwap allows you to trade over 10,000 tokens between 8 different networks in just a few clicks. Whether you're on your Phone, Tablet or PC, we are your one-stop shop for trading crypto. SokuSwap is the easiest place to trade crypto.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://sokuswap.com",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/SokuSwap",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/sokuswap",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

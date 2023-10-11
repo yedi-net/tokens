@@ -1,0 +1,56 @@
+{
+  "description": "Donaswap is aiming to be the world’s first, and biggest “Decentralized Donation Ecosystem” (DEDECO). Our mission is to function as the funding seed for charitable organizations. Donaswap will be the official swap on our own blockchain called the Financial Relief Chain (FIRECHAIN). Play to earn. Our upcoming game will be a absolute game changer. As gamers we know what the public likes and are working on releasing an awesome game before launching our FireChain. FireChain will focus on fast transaction speeds, scalability, low gas fees &amp; more. In the future you will be able to stake your $DONA tokens on Donaswap which will be on our own blockchain and receive FireChain Tokens in returns. The Fire Verse (Financial Relief Metaverse) will be our own idea of a Meta World. Our mission is to create a space for charities to raise funds in the new upcoming Metaverse future.",
+  "links": [
+    {
+      "name": "DONASWAP",
+      "url": "https://www.donaswap.com",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/donaswap",
+      "type": "link"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/donaswap/",
+      "type": "link"
+    },
+    {
+      "name": "LP Lock",
+      "url": "https://dxsale.app/app/v3/dxlockview?id=0&add=0x9b5EB92e35c0F87BEbA27Cee0465B1f6Ec3aF6cC&type=lplock&chain=BSC",
+      "type": "link"
+    },
+    {
+      "name": "PUNK KNIGHTS",
+      "url": "https://www.punkknights.com",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/FVaTXyNnCS",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/DonaSwap/",
+      "type": "link"
+    },
+    {
+      "name": "Fire Paper",
+      "url": "https://www.donaswap.com/wp-content/uploads/2021/11/Dona_White_Paper_EN.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Audit: Techrate",
+      "url": "https://www.donaswap.com/wp-content/uploads/2022/01/Techrate-Audit-DONASWAP.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/Donaswaptg",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

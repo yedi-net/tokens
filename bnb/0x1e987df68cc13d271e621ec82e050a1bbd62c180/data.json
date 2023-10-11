@@ -1,0 +1,35 @@
+{
+  "links": [
+    {
+      "name": "Go to ETH",
+      "url": "https://eth.moonscan.net/wagmi",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://uploads-ssl.webflow.com/619ce4a1ae033d566ff33283/61c13c7b67794e7bc3436590_WAGMI-WHITEPAPER.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.wagmigame.io/",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/wagmierc",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/WAGMIOfficialGroup",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/wJWQKK3x5P",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

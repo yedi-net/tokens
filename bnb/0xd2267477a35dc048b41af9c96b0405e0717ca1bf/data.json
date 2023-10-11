@@ -1,0 +1,31 @@
+{
+  "description": "CRYFT Coin is the spark that lit the flame of Cryft Cards. CRYFT Coin is an openly tradable asset with the backing of a real company. Cryft LLC creates Crypto Gift \"Cryft\" Cards. These physical cards are not limited to holding Cryft Coin and can be gifted to your peers. You invest in Cryft Coin because you are helping to build a system which aims to bring crypto to the masses via gifting. Cryft Coin will create liquidity pools, infrastructure and much more.",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/4Mc9AHDvn5",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://docs.cryft.app/whitepaper/",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://cryft.app",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/cryftcards/",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/CryftC",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

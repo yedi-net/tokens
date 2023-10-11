@@ -1,0 +1,36 @@
+{
+  "description": "$RAINBOW is a hyper-deflationary, ethical DeFi token sitting on the Binance Smart Chain which combines 7 features into a single cryptoasset. It is a project launched on the 18th August 2021 and is developed and maintained by a team situated in the UK. It aims to develop a decentralized token launchpad service \"Bifrost\" that specializes in user friendliness, flexibility and low fees.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://rainbowtoken.finance/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/rainbow_crypto",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://rainbowtoken.finance/whitepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Contract",
+      "url": "https://bscscan.com/token/0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_RainbowToken.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/mxzEy2vCeK",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

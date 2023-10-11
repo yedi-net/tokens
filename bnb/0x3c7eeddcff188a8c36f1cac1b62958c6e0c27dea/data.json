@@ -1,0 +1,31 @@
+{
+  "description": "G2 Crypto Gaming and Lottery is the first gaming ecosystem featuring innovative Telegram embedded arcade games using our G² Gaming Bot, a unique Diamond Hold Lifetime Lottery, and a robust staking pool. The G² Gaming Bot is located within the G² Telegram group. It allows users to interact directly with the G² Crypto Gaming platform by simply clicking on one of the buttons and through notifications. Thanks to the G² Gaming Bot, players will be able to manage their tokens and play games without leaving the Telegram environment, making it unique. We also offer partner services with other token projects that use our gaming bot with their native token. G² also incorporates a Diamond Hold Lottery, with 50 prizes per week. Guaranteed lottery drawings every 4 hours, every day, and every week to engage the community. Finally, G² will operate a large staking pool that provides holder reflections, increases the value of the project, and serves as a backup funding mechanism for the Diamond Hold Lottery.",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/g2cryptogaming",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "g2gaming.tech",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/G2CryptoGaming/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/g2_gaming",
+      "type": "link"
+    },
+    {
+      "name": "Pancake Swap",
+      "url": "https://pancakeswap.finance/swap#/swap?outputCurrency=0x3c7eeddcff188a8c36f1cac1b62958c6e0c27dea",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

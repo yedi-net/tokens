@@ -1,0 +1,16 @@
+{
+  "description": "YooShi is a decentralized meme coin that has grown into a game metaverse. The goal of YooShi is to build a bridge between P2E game developers and players, making games not only fun but also profitable. YooShi currently has over 245,000 members in its community and is continuing to grow. The YooShi metaverse is comprised of NFTs, the GameFi Launchpad, and the P2E Alliance. YooShi has various online presences, including a website, social media channels, and a Discord server. YooShi has also released several contracts, including the YOOSHI contract, YooShi Family NFT contract, and YooShi NFT marketplace contracts. YooShi has been audited by Certik, and the audit report is available online.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://yooshi.io",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/yooshi_official?s=21",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

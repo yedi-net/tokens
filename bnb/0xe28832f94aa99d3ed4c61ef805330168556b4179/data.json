@@ -1,0 +1,36 @@
+{
+  "description": "Matrix Protocol is building an ecosystem with several games in development, a cross-chain NFT marketplace, whilst creating multiple partnerships with major sporting leagues and artificial intelligence startups, in a bid to help those that help others.",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/matrix_protocol",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/matrix_protocol/",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "www.matrixprotocol.io",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/MatrixProtocolToken",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/MatrixProtocol/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/matrix_protocol",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

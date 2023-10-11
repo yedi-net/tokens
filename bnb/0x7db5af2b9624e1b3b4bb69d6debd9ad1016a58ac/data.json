@@ -1,0 +1,46 @@
+{
+  "description": "Volt Inu ($VOLT) is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking &amp; farming of stable coins. This investment diversity allows mitigating the risk while taking advantage of the possible non-correlated growth of the trending assets. Since $VOLT is intended to be a hyper-deflationary token, profits made on treasury investments are then used to buy back &amp; burn $VOLT tokens. In addition to this deflationary mechanism, $VOLT has implemented an automatic 4% burn tax on BSC. The merger of these two mechanisms guarantees a continuously rising price floor due to the decrease in the circulating supply.",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://voltinu.in",
+      "type": "link"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@VoltInu",
+      "type": "link"
+    },
+    {
+      "name": "Store",
+      "url": "https://www.redbubble.com/shop/ap/101420661",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/VoltInuOfficial",
+      "type": "link"
+    },
+    {
+      "name": "Game",
+      "url": "https://game.voltinu.in",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/VoltInuOfficial",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/Volt_Inu",
+      "type": "link"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCDLlAleEEmhc7pVdB5pZWFg",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

@@ -1,0 +1,31 @@
+{
+  "description": "onPlanet (OP) is a social and financial (SoFi) platform which allows teams, content creators and influencers of any kind to build a brand, gather a following, offer customized content subscription services, and crowdsource a project all in one space. Hyper-deflationary %10/%10 fee Features: Antibot, AntiWhale, MaxTransaction, and Platform-based Hyper-burns. KYC by PinkSale &amp; FLooz Audited by Certik",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://onplanet.io/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://www.certik.com/projects/onplanet",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://onplanet.io/wp-content/uploads/2021/11/OP-Whitepaper-Final-V1.0-Public.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/onPlanetIO",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/onplanet",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

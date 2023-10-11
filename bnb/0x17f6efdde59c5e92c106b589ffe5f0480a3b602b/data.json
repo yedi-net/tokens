@@ -1,0 +1,30 @@
+{
+  "description": "Clowncoin was fair launched in May 2022 with only 1 BNB in liquidity. Ownership was renounced and LP was locked at launch. In September 2023, Clowncoin migrated to a new contract. Clowncoin has a 3% buy/sell tax with 1% reflections, 1% liquidity, and 1% marketing. The Clowncoin team and community is made entirely of volunteers who work to build their own investment. Clowncoin is on almost all major social media platforms, and has even partnered with musical artists to create original Clowncoin music videos that can be found on our YouTube and TikTok. Eventually, Clowncoin wishes to partner with celebrities and influencers to raffle off celebrity and influencer donated items. All proceeds from the raffles will be donated to charitable causes selected by the Clowncoin community. Clowns are known for joy and healing.Recently Clowncoin has released our first utility, Clownhub. Clownhub is a platform that allows low market cap projects with limited funds gain exposure with free listings. When projects are listed on our platform, project communities are encouraged to upvote their project to reach the top of the list on our homepage.",
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "http://t.me/clowncoinbsc",
+      "type": "link"
+    },
+    {
+      "name": "X",
+      "url": "https://twitter.com/clowncoinBSC",
+      "type": "link"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCgoG_bUe2cmTvbldTxRqqOg",
+      "type": "link"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@clowncoinbsc",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://clowncoinbsc.com/white-paper",
+      "type": "link"
+    }
+  ]
+}

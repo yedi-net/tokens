@@ -1,0 +1,30 @@
+{
+  "links": [
+    {
+      "name": "Whitepaper",
+      "url": "https://drive.google.com/file/d/1lixYAtyMUPB9P0KOkRBDSB6jk-K61yMH/view?usp=sharing",
+      "type": "link"
+    },
+    {
+      "name": "Properties",
+      "url": "https://lakeviewmeta.com/properties",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://lakeviewmeta.com/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/LakeView_Meta",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/LakeviewMeta",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.jpeg"
+}

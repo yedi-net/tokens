@@ -1,0 +1,31 @@
+{
+  "description": "A platform governed by smart contracts to help potential investors make an informed decision on recently launched tokens. Our services include KYC, audit of new listings and review of listed tokens.",
+  "links": [
+    {
+      "name": "Lite Paper",
+      "url": "https://www.shibawatch.net/litepaper.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/shibawatchtoken",
+      "type": "link"
+    },
+    {
+      "name": "Doxxed Dev",
+      "url": "https://www.linkedin.com/in/hojung-kim-1754031a9/",
+      "type": "link"
+    },
+    {
+      "name": "Pancake Swap",
+      "url": "https://pancakeswap.finance/swap?outputCurrency=0x52941a733F7bAb6E52d5C8f2045c9D9D9eA246Ff",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/shibawatchofficial",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

@@ -1,0 +1,15 @@
+{
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/PuppetsArtsCoin",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.puppetsarts.com",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

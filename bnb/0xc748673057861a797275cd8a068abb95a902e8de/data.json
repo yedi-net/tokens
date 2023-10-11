@@ -1,0 +1,46 @@
+{
+  "description": "Baby Doge is a deflationary token created by fans of the doge meme community. A portion of each transaction is automatically redistributed to baby doge holders, making it fun and rewarding to hold the token. The project also has utility in promoting animal adoption and providing low swap fees on the Baby Doge Swap platform. Holders of Baby Doge will automatically receive more tokens just by holding them in their wallet. This is made possible by a 5% fee on each on-chain transaction, which is redistributed to the community. Additionally, a portion of the tokens in the dead wallet are burned with each transaction, making the token more scarce over time. The majority of initial liquidity provider tokens are also locked and some are burned.",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/babydogecoin",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://babydoge.com",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/babydogecoin",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/babydogearmy",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/user/Baby_doge_coin",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/babydogecoin",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/thebabydogecoin",
+      "type": "link"
+    },
+    {
+      "name": "BabyDoge ETH",
+      "url": "/babydoge:eth",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png"
+}

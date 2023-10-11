@@ -1,0 +1,45 @@
+{
+  "description": "POODL is a BEP-20 deflationary, self-LP generating token that is powered by the work and idea of its community. Together with our 3D NFTs and Augmented Reality APP we are taking the whole NFT world one step further. Calling it: NFT 2.0",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.poodltoken.com/",
+      "type": "link"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/POODLTOKEN/",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/bHn8BUpa",
+      "type": "link"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/POODLETOKEN",
+      "type": "link"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://www.poodltoken.com/whitepaper",
+      "type": "link"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/poodltoken/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://solidity.finance/audits/POODL/",
+      "type": "link"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/poodl",
+      "type": "link"
+    }
+  ]
+}
