@@ -54,7 +54,8 @@
     {
       "name": "DEEPSPACE (DPS)",
       "chain": "eth",
-      "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb"
+      "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb",
+      "type": "token"
     }
   ],
   "icon": "icon.png"
