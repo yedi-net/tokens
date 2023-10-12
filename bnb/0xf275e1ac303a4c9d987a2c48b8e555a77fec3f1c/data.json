@@ -50,6 +50,11 @@
       "name": "YouTube",
       "url": "https://dps.fyi/youtube",
       "type": "link"
+    },
+    {
+      "name": "DEEPSPACE (DPS)",
+      "chain": "eth",
+      "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb"
     }
   ],
   "icon": "icon.png"
