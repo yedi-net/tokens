@@ -58,5 +58,6 @@
       "type": "token"
     }
   ],
+  "badges": ["partner"],
   "icon": "icon.png"
 }
