@@ -3,7 +3,7 @@
 ## Add a token to <a href="https://yedi.net" target="_blank">Yedi Network</a>
 
 1. <a href="https://github.com/yedi-net/tokens/fork">Fork this repository</a>
-2. Create a new **folder** inside the matching chain folder (bnb|eth). The name of your folder __must__ be the tokens contract address in lowercase. Example: `/bnb/0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c`
+2. Create a new **folder** inside the matching chain folder (bnb/eth). The name of your folder __must__ be the tokens contract address in lowercase. Example: `/bnb/0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c`
 3. Add a new file `data.json` with the following content, none of the first-level properties is required.
    ```json
    {
