@@ -1,3 +1,11 @@
 {
+  "links": [
+    {
+      "chain": "bnb",
+      "address": "0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c",
+      "name": "DEEPSPACE (DPS)",
+      "type": "token"
+  ],
+  "badges": ["partner"],
   "icon": "icon.png"
 }
