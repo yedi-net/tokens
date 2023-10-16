@@ -95,7 +95,7 @@
       }
     },
     "copy": {
-      "required": ["chain", "contract"],
+      "required": ["chain", "address"],
       "properties": {
         "chain": {
           "type": "string",
