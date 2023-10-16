@@ -47,7 +47,7 @@
               "chain": {
                 "type": "string",
                 "description": "Chain of linked token",
-                "pattern": "^(bnb|eth)$"
+                "pattern": "^(bnb|eth|arbi|matic)$"
               },
               "address": {
                 "type": "string",
@@ -93,6 +93,30 @@
       "items": {
         "type": "string"
       }
+    },
+    "copy": {
+      "required": ["chain", "contract"],
+      "properties": {
+        "chain": {
+          "type": "string",
+          "description": "Chain of token to copy metadata from",
+          "pattern": "^(bnb|eth|arbi|matic)$"
+        },
+        "contract": {
+          "contract": "string",
+          "description": "Contract address of token to copy metadata from",
+          "pattern": "^0x[a-f0-9]{40}$"
+        },
+        "keys": {
+          "type": "array",
+          "description": "Which fields of the related token metadata to copy. If not set, all values are copied",
+          "items": {
+            "type": "string",
+            "pattern": "^(description|links|icon|badges)$"
+          }
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

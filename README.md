@@ -32,6 +32,11 @@
           "address": "0x1416bf62f4dd65378dfc36a87c06d6efaf86979f"
         }
      ],
+     "copy": {
+      "chain": "bnb",
+      "contract": "contract address to copy metadata from",
+      "keys": ["description"]
+     },
      "icon": "icon.png"
    }
    ```
