@@ -34,7 +34,7 @@
      ],
      "copy": {
       "chain": "bnb",
-      "contract": "contract address to copy metadata from",
+      "address": "contract address to copy metadata from",
       "keys": ["description"]
      },
      "icon": "icon.png"

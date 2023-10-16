@@ -102,8 +102,8 @@
           "description": "Chain of token to copy metadata from",
           "pattern": "^(bnb|eth|arbi|matic)$"
         },
-        "contract": {
-          "contract": "string",
+        "address": {
+          "type": "string",
           "description": "Contract address of token to copy metadata from",
           "pattern": "^0x[a-f0-9]{40}$"
         },
