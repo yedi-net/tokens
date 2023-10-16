@@ -1,63 +1,6 @@
 {
-  "description": "Welcome to the DEEPSPACE Metaverse! DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game! Earn passive income from holding $DPS, trading NFTs, and taking risks as you explore DEEPSPACE with your fleet of ships! Prepare to explore, harvest, and fight your way through the DEEPSPACE universe!",
-  "links": [
-    {
-      "name": "Discord",
-      "url": "https://dps.fyi/discord",
-      "type": "link"
-    },
-    {
-      "name": "GitHub",
-      "url": "https://dps.fyi/gh",
-      "type": "link"
-    },
-    {
-      "name": "Reddit",
-      "url": "https://dps.fyi/rd",
-      "type": "link"
-    },
-    {
-      "name": "Medium",
-      "url": "https://dps.fyi/medium",
-      "type": "link"
-    },
-    {
-      "name": "DEEPSPACE Swap",
-      "url": "https://app.deepspace.game/swap?ref=C0qHjum0",
-      "type": "link"
-    },
-    {
-      "name": "Telegram",
-      "url": "https://dps.fyi/tg",
-      "type": "link"
-    },
-    {
-      "name": "Whitepaper",
-      "url": "https://dps.fyi/whitepaper",
-      "type": "link"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/DeepSpaceBSC",
-      "type": "link"
-    },
-    {
-      "name": "Website",
-      "url": "https://deepspace.game",
-      "type": "link"
-    },
-    {
-      "name": "YouTube",
-      "url": "https://dps.fyi/youtube",
-      "type": "link"
-    },
-    {
-      "name": "DEEPSPACE (DPS)",
-      "chain": "eth",
-      "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb",
-      "type": "token"
-    }
-  ],
-  "badges": ["partner"],
-  "icon": "icon.png"
+  "copy": {
+    "chain": "eth",
+    "address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb"
+  }
 }
