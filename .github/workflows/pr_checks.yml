@@ -34,7 +34,8 @@ jobs:
       id: changed-files
       uses: tj-actions/changed-files@v35
       with:
-        files: */*/*.json
+        files: |
+          **/*/*.json
         base_sha: ${{ steps.last_successful_commit_push.outputs.base }}
 
     - run: sudo npm i -g prettier
