@@ -8,17 +8,12 @@
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/donaswap",
+      "url": "https://twitter.com/0xdonaswap",
       "type": "link"
     },
     {
       "name": "CoinMarketCap",
       "url": "https://coinmarketcap.com/currencies/donaswap/",
-      "type": "link"
-    },
-    {
-      "name": "LP Lock",
-      "url": "https://dxsale.app/app/v3/dxlockview?id=0&add=0x9b5EB92e35c0F87BEbA27Cee0465B1f6Ec3aF6cC&type=lplock&chain=BSC",
       "type": "link"
     },
     {
@@ -34,16 +29,6 @@
     {
       "name": "Reddit",
       "url": "https://www.reddit.com/r/DonaSwap/",
-      "type": "link"
-    },
-    {
-      "name": "Fire Paper",
-      "url": "https://www.donaswap.com/wp-content/uploads/2021/11/Dona_White_Paper_EN.pdf",
-      "type": "link"
-    },
-    {
-      "name": "Audit: Techrate",
-      "url": "https://www.donaswap.com/wp-content/uploads/2022/01/Techrate-Audit-DONASWAP.pdf",
       "type": "link"
     },
     {
