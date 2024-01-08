@@ -1,0 +1,35 @@
+{
+  "description": "
+Popcat is the Next Catcoin with True Rewards, Buy and Earn with All Transactions We take Popcat to the Next Level.
+Launched on Binance Smartchain Network by a safe and based development team, POPCAT is about to dominate the BSC world.",
+  "links": [
+    {
+       "type": "link",
+       "name": "X/Twitter",
+       "url": "https://twitter.com/Pop_catX"
+     },
+     {
+       "type": "link",
+       "name": "Telegram",
+       "url": "https://t.me/Pop_catX"
+     },
+     {
+       "type": "token",
+       "name": "Popcat",
+       "chain": "BNB",
+       "address": "0xf7086c64D03A7ba3FB12610f3DDbf0888F4d71dc"
+     },
+     {
+       "type": "nft",
+       "name": "Collectible Collection",
+       "chain": "bnb",
+       "address": "0xf7086c64D03A7ba3FB12610f3DDbf0888F4d71dc"
+     }
+  ],
+  "copy": {
+   "chain": "bnb",
+   "address": "0xf7086c64D03A7ba3FB12610f3DDbf0888F4d71dc",
+   "keys": ["description"]
+  },
+  "icon": "icon.png"
+}
