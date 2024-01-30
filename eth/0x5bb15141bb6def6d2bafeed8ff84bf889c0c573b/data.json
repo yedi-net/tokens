@@ -12,7 +12,7 @@
     },
     {
       "name": "Website",
-      "url": "https://lakeviewmeta.com/",
+      "url": "https://lakeviewmeta.com",
       "type": "link"
     },
     {
@@ -21,8 +21,28 @@
       "type": "link"
     },
     {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/LakeviewMeta_LVM/",
+      "type": "link"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/LakeViewMeta",
+      "type": "link"
+    },
+    {
       "name": "Twitter",
       "url": "https://twitter.com/LakeviewMeta",
+      "type": "link"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/MyaHVnzrcW",
+      "type": "link"
+    },
+    {
+      "name": "LinkTree",
+      "url": "https://linktr.ee/lakeviewmeta",
       "type": "link"
     }
   ],
